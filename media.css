@@ -1,0 +1,13 @@
+@media only screen and (min-width: 581px) and (max-width: 734px) {
+    header{
+        background-size: 120%;
+    }
+}
+
+@media only screen and (min-width: 734px) and (max-width: 900px){
+    header{
+        background-image: url(./images/windows-jv-vogT7hkU-unsplash.jpg);
+        width: 100%;
+        background-size: cover;
+    }
+}
