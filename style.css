@@ -14,9 +14,9 @@ body{
 	justify-content: center;
 	align-items: center;
 }
-
 .login-container{
 	display: flex;
+	margin: 30px;
 	flex-direction: column;
 	width: 90%;
 	height: 90vh;
@@ -27,6 +27,8 @@ body{
 .login-content{
 	width: 100%;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 	flex-direction: column;
 }
 
@@ -232,6 +234,10 @@ a{
 .menuppal ul li a:hover{
 	text-decoration:none;
 	color:#333;
+}
+
+.menuppal-desk{
+	display: none;
 }
 
 /* ?NAVBAR */
