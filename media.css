@@ -99,9 +99,8 @@
         display: flex;
     }
     #first-pic{
-        width: 300px;
+        width: 250px;
     }
-
     .main-second{
         display: flex;
         flex-direction: column;
@@ -253,7 +252,7 @@
         margin-bottom: 30px;
     }
     #first-pic{
-        width:500px;
+        width:370px;
     }
 
     .main-second{
