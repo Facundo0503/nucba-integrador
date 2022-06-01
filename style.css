@@ -517,10 +517,15 @@ main{
 }
 
 footer{
+	text-align: center;
 	width: 100%;
 	padding: 20px;
 	background-color: black;
 	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
 .footer-list li{

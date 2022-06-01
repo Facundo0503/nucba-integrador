@@ -177,6 +177,15 @@
         background-position-x: 0;
         background-size: 100%;
     }
+
+    #header-input{
+        width: 400px;
+    }
+
+    .header-content button{
+        left: 79%;
+    }
+
     .login-container{
         margin-top: 50px;
         width: 400px;
